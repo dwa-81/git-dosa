@@ -6,3 +6,5 @@
 
 # Egg dosa
 * flour
+* 2 eggs 
+* karam 
